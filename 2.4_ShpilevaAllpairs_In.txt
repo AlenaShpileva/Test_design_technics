@@ -1,0 +1,12 @@
+Address	Order cost	Order height (in cm)	Order length (in cm)	Order width (in cm)	Order weight (in grams)
+Russia	0	0	0	0	0
+not Russia	0.01	1	1	1	1
+invalid 	5000	15	10	10	5000
+	9999.99	29	19	24	9999
+	10000	30	20	25	10000
+	10000.01	31	21	26	10001
+	15000	45	30	30	13000
+	19999.99	59	39	39	14999
+	20000	60	40	40	15000
+	20000.01	61	41	41	15001
+	30000	100	50	50	20000
